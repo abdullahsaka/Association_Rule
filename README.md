@@ -1,4 +1,4 @@
-# D.S.-1-Association_Rule
+# Association Rule Analysis
 
 This is a small project that I did in undergraduate.
 
